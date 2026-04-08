@@ -44,7 +44,7 @@ const tareq = {
 
 - Build responsive websites  
 - Create modern UI with React & Tailwind  
-- Develop full-stack MERN apps  
+- Develop full-stack MERN Web 
 - Write clean and scalable code  
 - Always learning new things  
 

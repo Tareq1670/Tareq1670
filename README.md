@@ -21,6 +21,15 @@ const tareq = {
   goal: "Become a professional Web Developer"
 };
 ```
+## 🚀 What I'm Building & Learning
+
+* ✨ Crafting high-performance and scalable web applications with **Next.js**, **React**, and modern frontend technologies
+* 🎨 Designing intuitive, responsive, and user-centric interfaces that deliver exceptional digital experiences
+* ⚙️ Developing robust backend architectures using **Node.js**, **Express.js**, and **MongoDB**
+* 🔐 Implementing secure authentication, authorization, and API security best practices
+* 📚 Continuously exploring software architecture, clean code principles, and industry-standard development workflows
+* 🌱 Expanding my expertise in full-stack development through real-world projects and hands-on problem solving
+* 💡 Passionate about transforming innovative ideas into impactful digital products that solve real-world challenges
 
 ---
 
@@ -57,22 +66,18 @@ A selection of projects that highlight my experience in building scalable, user-
 
 ## 💡 What I Do
 
-- Build responsive websites  
-- Create modern UI with React & Tailwind  
-- Develop full-stack MERN Web 
-- Write clean and scalable code  
-- Always learning new things  
+* 🚀 Build modern web applications with **Next.js** & **React**
+* 🎨 Create responsive and user-friendly interfaces using **Tailwind CSS**
+* ⚙️ Develop scalable **MERN Stack** applications
+* 🔐 Implement secure authentication and API protection
+* 🗄️ Design and manage efficient **MongoDB** databases
+* 📡 Build RESTful APIs and integrate third-party services
+* 🧹 Write clean, maintainable, and scalable code
+* 📱 Optimize applications for performance, SEO, and responsiveness
+* 📚 Continuously learning modern technologies and software architecture
+
 
 ---
-
-## 🌐 Connect With Me
-
-<div align="center">
-  <a href="mailto:tariqulislamtareq1670@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/tariqul-islam-tareq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/8801614972304"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.facebook.com/tariqulislam.tareq.96558"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
-</div>
 
 ## 📊 GitHub Analytics
 
@@ -93,6 +98,17 @@ A selection of projects that highlight my experience in building scalable, user-
 <p align="center">
   <i>Passionate about building modern web applications and continuously improving development skills.</i>
 </p>
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+  <a href="mailto:tariqulislamtareq1670@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/tariqul-islam-tareq"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://wa.me/8801614972304"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.facebook.com/tariqulislam.tareq.96558"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
+</div>
 
 ---
 

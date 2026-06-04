@@ -74,20 +74,25 @@ A selection of projects that highlight my experience in building scalable, user-
   <a href="https://www.facebook.com/tariqulislam.tareq.96558"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 </div>
 
----
-
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tareq1670&show_icons=true&theme=dark" 
-       alt="GitHub Stats" height="180px" />
 
-  <img src="https://streak-stats.demolab.com?user=Tareq1670&theme=dark" 
-       alt="GitHub Streak" height="180px" />
-  
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tareq1670&layout=compact&theme=dark" 
-       alt="Top Languages" height="180px" />
+<img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Tareq1670&show_icons=true&theme=dark" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=Tareq1670&theme=dark" />
+
 </div>
+
+<div align="center">
+
+<img width="40%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Tareq1670&layout=compact&theme=dark" />
+
+</div>
+
+<p align="center">
+  <i>Passionate about building modern web applications and continuously improving development skills.</i>
+</p>
 
 ---
 

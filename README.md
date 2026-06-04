@@ -30,15 +30,30 @@ const tareq = {
 <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,nextjs,nodejs,express,mongodb,firebase,git,github" />
 </div>
 
----
-
 ## 🚀 Featured Projects
 
-- Gym Management Website → React + Tailwind  
-- Meal Finder App → JavaScript + API  
-- Portfolio Website → Fully Responsive  
+A selection of projects that highlight my experience in building scalable, user-focused, and modern full-stack web applications.
+
+| Project            | Description                                                                                                                                                                                                                                                             | Tech Stack                                                     | Links                                                                                                                  |
+| ------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------- |
+| **🏥 MediQueue**   | A modern healthcare management platform that simplifies patient appointment scheduling and clinic operations. Features secure authentication, appointment management, role-based access control, and an intuitive dashboard for both patients and healthcare providers. | **Next.js, React, Express.js, MongoDB, JWT, Tailwind CSS**     | [🌐Live](https://medi-queue-tutor-booking-system.vercel.app) • [Code](https://github.com/Tareq1670/MediQueue-Tutor-Booking-System)     |
+| **🎓 SkillSphere** | A comprehensive Learning Management System (LMS) designed to connect instructors and learners through an interactive educational experience. Includes course creation, enrollment management, progress tracking, and user-friendly learning tools.                      | **Next.js, React, Node.js, Express.js, MongoDB, Tailwind CSS** | [🌐Live](https://skill-sphere-ten-lac.vercel.app) • [Code](https://github.com/Tareq1670/SkillSphere) |
+| **🤝 KeenKeeper**  | A personal relationship management application that helps users organize contacts, manage interactions, and set reminders for meaningful personal and professional relationships. Built with a focus on productivity and user experience.                               | **Next.js, React, Express.js, MongoDB, Tailwind CSS**          | [🌐Live](https://keenkeeper-ten.vercel.app/) • [Code](https://github.com/Tareq1670/keenkeeper)   |
 
 ---
+
+### 💡 Key Highlights
+
+* ✅ Full-Stack Web Development
+* ✅ Authentication & Authorization
+* ✅ RESTful API Development
+* ✅ MongoDB Database Management
+* ✅ Responsive UI/UX Design
+* ✅ Modern React & Next.js Ecosystem
+* ✅ Secure & Scalable Architecture
+
+> Passionate about building modern web applications that solve real-world problems and deliver exceptional user experiences.
+
 
 ## 💡 What I Do
 

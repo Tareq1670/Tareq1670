@@ -101,7 +101,7 @@ A selection of projects that highlight my experience in building scalable, user-
 
 ---
 
-## 🌐 Connects With Me
+## 🌐 Connect With Me
 
 <div align="center">
   <a href="mailto:tariqulislamtareq1670@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>

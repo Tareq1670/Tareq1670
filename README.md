@@ -74,7 +74,7 @@ A selection of projects that highlight my experience in building scalable, user-
 * 📡 Build RESTful APIs and integrate third-party services
 * 🧹 Write clean, maintainable, and scalable code
 * 📱 Optimize applications for performance, SEO, and responsiveness
-* 📚 Continuously learning modern technologies and software architecture.
+* 📚 Continuously learning modern technologies and software architecture
 
 
 ---
